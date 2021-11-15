@@ -50,10 +50,6 @@
 	path = plugins/redmine_my_page
 	url = https://github.com/gtt-project/redmine_my_page.git
 	branch = develop
-[submodule "plugins/redmine_attachement_categories"]
-	path = plugins/redmine_attachement_categories
-	url = https://github.com/gtt-project/redmine_attachment_categories.git
-	branch = gtt/develop
 [submodule "plugins/redmine_custom_fields_groups"]
 	path = plugins/redmine_custom_fields_groups
 	url = https://github.com/gtt-project/redmine_custom_fields_groups.git
