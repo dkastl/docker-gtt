@@ -10,3 +10,39 @@
 [submodule "plugins/redmine_gtt_print"]
 	path = plugins/redmine_gtt_print
 	url = https://github.com/gtt-project/redmine_gtt_print.git
+[submodule "plugins/redmine_privacy"]
+	path = plugins/redmine_privacy
+	url = https://github.com/gtt-project/redmine_privacy.git
+	branch = main
+[submodule "plugins/redmine_chatwoot"]
+	path = plugins/redmine_chatwoot
+	url = https://github.com/gtt-project/redmine_chatwoot.git
+	branch = main
+[submodule "public/themes/lobsta"]
+	path = public/themes/lobsta
+	url = https://github.com/Georepublic/redmine_theme_farend_bleuclair.git
+	branch = v4.2/lobsta
+[submodule "plugins/redmine_gtt_export"]
+	path = plugins/redmine_gtt_export
+	url = https://github.com/gtt-project/redmine_gtt_export.git
+	branch = main
+[submodule "plugins/redmine_admissions"]
+	path = plugins/redmine_admissions
+	url = https://github.com/gtt-project/redmine_admissions.git
+	branch = main
+[submodule "plugins/redmine_decision_tree"]
+	path = plugins/redmine_decision_tree
+	url = https://github.com/gtt-project/redmine_decision_tree.git
+	branch = main
+[submodule "plugins/redmine_expo_push"]
+	path = plugins/redmine_expo_push
+	url = https://github.com/gtt-project/redmine_expo_push.git
+	branch = main
+[submodule "plugins/redmine_supply"]
+	path = plugins/redmine_supply
+	url = https://github.com/gtt-project/redmine_supply.git
+	branch = main
+[submodule "plugins/redmine_open311"]
+	path = plugins/redmine_open311
+	url = https://github.com/gtt-project/redmine_open311.git
+	branch = main
